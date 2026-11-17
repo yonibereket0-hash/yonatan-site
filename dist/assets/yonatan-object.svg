@@ -1,0 +1,44 @@
+<svg width="760" height="620" viewBox="0 0 760 620" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Clarity built in</title>
+  <desc id="desc">A luminous product object made from layered interface surfaces.</desc>
+  <defs>
+    <linearGradient id="shell" x1="260" y1="72" x2="566" y2="560" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#31364B"/>
+      <stop offset="1" stop-color="#111218"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="266" y1="172" x2="540" y2="412" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8FC8FF"/>
+      <stop offset="1" stop-color="#2997FF"/>
+    </linearGradient>
+    <filter id="glow" x="-100" y="-100" width="960" height="820" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="28"/>
+    </filter>
+  </defs>
+
+  <circle cx="428" cy="306" r="176" fill="#2997FF" fill-opacity=".17" filter="url(#glow)"/>
+  <path d="M196 139C196 116.909 213.909 99 236 99H584C606.091 99 624 116.909 624 139V461C624 483.091 606.091 501 584 501H236C213.909 501 196 483.091 196 461V139Z" fill="url(#shell)" stroke="#5D667E" stroke-width="2"/>
+
+  <path d="M196 151C196 121.729 219.729 98 249 98H571C600.271 98 624 121.729 624 151V179H196V151Z" fill="#151722"/>
+  <circle cx="222" cy="139" r="6" fill="#FF5F57"/><circle cx="243" cy="139" r="6" fill="#FEBB2E"/><circle cx="264" cy="139" r="6" fill="#28C840"/>
+  <text x="302" y="145" fill="#8F95A6" font-family="Arial, sans-serif" font-size="12" letter-spacing="2">CLARITY / 01</text>
+
+  <rect x="234" y="214" width="148" height="170" rx="18" fill="#171A25" stroke="#4B536A"/>
+  <text x="258" y="248" fill="#9BA4BA" font-family="Arial, sans-serif" font-size="11" letter-spacing="2">THE SIGNAL</text>
+  <path d="M258 316C279 299 295 301 313 317C329 331 348 334 367 308" stroke="url(#accent)" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="258" cy="316" r="7" fill="#2997FF"/><circle cx="367" cy="308" r="7" fill="#C6DDFF"/>
+  <path d="M258 344H348" stroke="#5B6379" stroke-width="7" stroke-linecap="round"/><path d="M258 365H321" stroke="#4A5266" stroke-width="7" stroke-linecap="round"/>
+
+  <rect x="407" y="214" width="184" height="220" rx="18" fill="#F5F5F7"/>
+  <text x="434" y="250" fill="#6E6E73" font-family="Arial, sans-serif" font-size="11" letter-spacing="2">NEXT STEP</text>
+  <text x="434" y="292" fill="#1D1D1F" font-family="Arial, sans-serif" font-size="28" font-weight="600">Make it</text>
+  <text x="434" y="324" fill="#1D1D1F" font-family="Arial, sans-serif" font-size="28" font-weight="600">obvious.</text>
+  <rect x="434" y="355" width="110" height="10" rx="5" fill="#D2D2D7"/>
+  <rect x="434" y="377" width="74" height="10" rx="5" fill="#D2D2D7"/>
+  <rect x="434" y="401" width="90" height="10" rx="5" fill="#2997FF"/>
+
+  <path d="M118 466C177 400 224 394 278 429C323 458 361 480 422 462C478 445 531 416 627 456" stroke="#7E879C" stroke-opacity=".65" stroke-width="2" stroke-linecap="round" stroke-dasharray="2 11"/>
+  <circle cx="118" cy="466" r="8" fill="#2997FF"/><circle cx="627" cy="456" r="8" fill="#F5F5F7" stroke="#2997FF" stroke-width="3"/>
+  <path d="M150 530H618" stroke="#4D556A" stroke-width="2" stroke-linecap="round"/>
+  <path d="M220 554H548" stroke="#363D50" stroke-width="2" stroke-linecap="round"/>
+  <path d="M262 520L316 494L364 520L418 492L480 520L534 492" stroke="#2997FF" stroke-opacity=".38" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
