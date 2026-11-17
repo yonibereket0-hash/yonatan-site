@@ -2,7 +2,7 @@
 
 ## World
 
-A calm editorial product page for a personal digital practice: warm cream surfaces, deep brown hero and footer bands, system typography, a burnt-orange signal, and a single signature product object. The page should feel deliberate and calm, with every element earning its place.
+A calm editorial product page for a personal digital practice: clear white surfaces, deep slate hero and footer bands, system typography, a focused blue signal, and a single signature product object. The page should feel deliberate and calm, with every element earning its place.
 
 ## First viewport
 
@@ -16,14 +16,14 @@ The hero opens on the promise “Clarity, built in.” A single luminous interfa
 
 ## Palette
 
-- Hero brown `#21130f`
-- Hero secondary `#321d15`
-- Surface cream `#f5eee6`
-- Soft cream `#fbf7f2`
-- Primary text `#241914`
-- Secondary text `#6d5e55`
-- Rule `#d9c9bd`
-- Accent orange `#b8482a`
+- Hero slate `#111827`
+- Hero secondary `#1f2937`
+- Surface `#f6f8fb`
+- Soft surface `#ffffff`
+- Primary text `#111827`
+- Secondary text `#526071`
+- Rule `#dbe3ed`
+- Accent blue `#2563eb`
 
 ## Structure
 
